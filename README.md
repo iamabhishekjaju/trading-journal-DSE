@@ -5,15 +5,15 @@ This repository tracks my systematic intraday trading performance.
 All trades follow predefined risk and execution rules.
 
 ## Capital & Risk
-- Trading Capital: ₹35L
-- Max Daily Risk: 1–2%
-- Focus: Non-directional & Intraday Index Strategies
+
+- Max Daily Risk: 3%
+- Focus: Non-directional & Intraday Index Directional Strategies
 
 ## Strategies Tracked
 - 0DTE Expiry Strategy (Nifty/Sensex)
 - Non-directional Theta Strategy
-- ORB (Directional)
-- PDH/PDL Breakout
+- Directional_1
+- Directional_2
 
 ## Performance Summary
 | Metric | Value |
